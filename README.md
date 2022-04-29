@@ -26,7 +26,7 @@ It isn't really necessary, but good to have if you have TPU filament.
 
 ## Hardware
 
-1. M3x8 screw x 4
+1. M3x10 screw x 4
 2. M3 thumbscrew x 3 (or just use M3x8)
 3. M3 nuts x7
 
